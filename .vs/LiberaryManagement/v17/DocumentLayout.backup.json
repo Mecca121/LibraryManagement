@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\repositories\\inmemorybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\repositories\\inmemorybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\librarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\librarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|c:\\users\\providence limited\\source\\repos\\liberarymanagement\\liberarymanagement\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57667455-ED0B-48C0-A165-5909141C671E}|LiberaryManagement\\LiberaryManagement.csproj|solutionrelative:liberarymanagement\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Book.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Book.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Book.cs",
+              "RelativeToolTip": "LiberaryManagement\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:19:20.19Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:42:40.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Services\\BookService.cs",
+              "RelativeToolTip": "LiberaryManagement\\Services\\BookService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:42:16.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Services\\IBookService.cs",
+              "RelativeToolTip": "LiberaryManagement\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:42:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Repositories\\InMemoryBookRepository.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Repositories\\InMemoryBookRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Repositories\\InMemoryBookRepository.cs",
+              "RelativeToolTip": "LiberaryManagement\\Repositories\\InMemoryBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:40:44.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LiberaryManagement\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA/wDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:48:09.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "LiberaryManagement\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:40:35.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "LiberaryManagement\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:58:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryData.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\LibraryData.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\LibraryData.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\LibraryData.cs",
+              "RelativeToolTip": "LiberaryManagement\\LibraryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:32:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Transaction.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Transaction.cs",
+              "RelativeToolTip": "LiberaryManagement\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:27:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Member.cs",
+              "RelativeDocumentMoniker": "LiberaryManagement\\Member.cs",
+              "ToolTip": "C:\\Users\\Providence Limited\\source\\repos\\LiberaryManagement\\LiberaryManagement\\Member.cs",
+              "RelativeToolTip": "LiberaryManagement\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:23:11.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
