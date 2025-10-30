@@ -1,3 +1,12 @@
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.AssemblyInfoInputs.cache
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.AssemblyInfo.cs
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.RazorAssemblyInfo.cache
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.RazorAssemblyInfo.cs
+C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.sourcelink.json
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\bin\Debug\net8.0\appsettings.json
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\bin\Debug\net8.0\LiberaryManagement.staticwebassets.runtime.json
@@ -7,14 +16,6 @@ C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\b
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\bin\Debug\net8.0\LiberaryManagement.runtimeconfig.json
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\bin\Debug\net8.0\LiberaryManagement.dll
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\bin\Debug\net8.0\LiberaryManagement.pdb
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.AssemblyInfoInputs.cache
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.AssemblyInfo.cs
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.csproj.CoreCompileInputs.cache
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.RazorAssemblyInfo.cache
-C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\LiberaryManagement.RazorAssemblyInfo.cs
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Providence Limited\source\repos\LiberaryManagement\LiberaryManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
